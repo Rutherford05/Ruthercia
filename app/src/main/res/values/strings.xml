@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ruthercia</string>
+    <string name="title_activity_utilisateurs">\@string/title_activity_utilisateurs</string>
+</resources>
